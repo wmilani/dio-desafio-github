@@ -1,0 +1,22 @@
+Comandos bash
+
+pwd - Mostra o nome da pasta em que se encontra (diretório de trabalho de impressão).
+cd altera a pasta de trabalho, permitindo movimentação entre pastas
+cd ../ voltar pasta
+ls - lista conteúdo do diretório
+mkdir criar nova pasta
+rmdir apagar pasta vazia
+gedit criar e editar arquivos de texto
+rm nomedoarquivo excluir arquivos
+cp copiar um arquivo ou pasta para o diretório especificado
+cp -r copiar pastas
+mv - mover um arquivo ou pasta para um arquivo ou pasta
+touch arquivo.name - criar arquivio
+
+
+comandos git
+
+git add //adiciona todos os arquivos
+git status // mostra o estado dos arquivos
+git add ./*adiciona todos os arquivos ao repositório*/
+git commit -m “adicionando todos os arquivos” /* adc comentario ao commit*/
